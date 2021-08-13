@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.AlarmTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-13T00:15:08" hostname="DESKTOP-4DS1M3L" time="62.748">
+  <properties/>
+  <testcase name="Should_TypeAlarmTime()" classname="test.AlarmTest" time="15.849"/>
+  <testcase name="Should_SelectAlarmDay()" classname="test.AlarmTest" time="12.885"/>
+  <testcase name="Should_CreateAnAlarmAndDelete()" classname="test.AlarmTest" time="10.824"/>
+  <testcase name="Should_CreateAndWriteDescription()" classname="test.AlarmTest" time="12.19"/>
+  <testcase name="Should_CreateAnAlarm()" classname="test.AlarmTest" time="11.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 12, 2021 8:15:15 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Aug 12, 2021 8:15:30 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Aug 12, 2021 8:15:43 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Aug 12, 2021 8:15:54 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Aug 12, 2021 8:16:06 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
