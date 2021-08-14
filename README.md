@@ -1,6 +1,6 @@
-#Framework de pruebas para la App "Alarma"
-##Proyecto de pruebas para la Aplicación de Alarma preinstalada en Android por defecto.
-####Se implementó el patrón PageObject para la estructura del framework.
+# Framework de pruebas para la App "Alarma"
+## Proyecto de pruebas para la Aplicación de Alarma preinstalada en Android por defecto.
+#### Se implementó el patrón PageObject para la estructura del framework.
 Se realizaron 5 pruebas para la App Alarma:
 + Should_CreateAnAlarm -> Crea una alarma con la hora actual.
 + Should_CreateAnAlarmAndDelete -> Crea una alarma y la elimina.
